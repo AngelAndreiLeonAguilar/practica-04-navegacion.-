@@ -1,7 +1,14 @@
 # Práctica 04: navegación, rutas y componentes reutilizables
 
 ## Propósito
+
 Implementar un catálogo de materias en Flutter aplicando una arquitectura organizada por modelos, pantallas y widgets reutilizables.
+
+## Integrantes
+
+- ANGEL ANDREI LEON AGUILAR — 8950
+- MANUEL DANIEL YAH DZUL — 8967
+- YOSHUAN ADRIAN CAHUICH CANUL — 9006
 
 ## Funciones agregadas
 
@@ -30,13 +37,8 @@ Resultados: análisis sin incidencias, prueba de navegación aprobada y compilac
 
 ## Evidencias
 
-Adjuntar a esta Pull Request las capturas ubicadas en `docs/evidencias/practica-04/`:
+Las evidencias y su registro se encuentran en la carpeta `docs/evidencias/practica-04/` del repositorio:
 
 - Lista de materias.
 - Detalle de una materia.
 - Pantalla Acerca de.
-
-## Pendientes
-
-- Publicar la rama en el repositorio remoto.
-- Añadir las capturas reales y sus enlaces en la Pull Request.
